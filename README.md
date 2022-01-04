@@ -19,3 +19,5 @@ Note that the problems in the short list above are just a suggestion and are des
 
 We also integrate this dataset with others using nba_api (https://github.com/swar/nba_api).
 
+TEST
+
