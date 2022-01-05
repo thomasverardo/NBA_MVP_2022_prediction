@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Download all player stats that played from 2004">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,7 +58,7 @@
       <workItem from="1641308660611" duration="1537000" />
       <workItem from="1641310424013" duration="8305000" />
       <workItem from="1641375031542" duration="5825000" />
-      <workItem from="1641393347733" duration="391000" />
+      <workItem from="1641393347733" duration="1102000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
