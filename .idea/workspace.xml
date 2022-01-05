@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Legenda update">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Download all player stats that played from 2004">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
     </list>
@@ -58,7 +58,8 @@
       <updated>1641308658848</updated>
       <workItem from="1641308660611" duration="1537000" />
       <workItem from="1641310424013" duration="8305000" />
-      <workItem from="1641375031542" duration="5531000" />
+      <workItem from="1641375031542" duration="5825000" />
+      <workItem from="1641393347733" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -109,7 +110,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641317378530</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Download all player stats that played from 2004">
+      <created>1641383165080</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1641383165080</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +139,8 @@
     <MESSAGE value="prova aaa" />
     <MESSAGE value="Legenda playercarreerstats" />
     <MESSAGE value="Legenda update" />
-    <option name="LAST_COMMIT_MESSAGE" value="Legenda update" />
+    <MESSAGE value="Download all player stats that played from 2004" />
+    <option name="LAST_COMMIT_MESSAGE" value="Download all player stats that played from 2004" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
