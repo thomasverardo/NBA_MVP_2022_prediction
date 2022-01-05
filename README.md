@@ -1,4 +1,4 @@
-# NBA_MVP_2022_prediction
+# NBA_MVP_2022_prediction__
 Machine Learning project
 
 A dataset (https://www.kaggle.com/nathanlauga/nba-games) contains information about NBA games from several recent seasons (from 2004 on), at the level of the single player contribution to each game.
