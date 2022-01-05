@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Download all player stats that played from 2004">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Test">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Appunti_NBA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Appunti_NBA.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,6 +61,7 @@
       <workItem from="1641310424013" duration="8305000" />
       <workItem from="1641375031542" duration="5825000" />
       <workItem from="1641393347733" duration="1102000" />
+      <workItem from="1641396428649" duration="5881000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -116,7 +119,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641383165080</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Test">
+      <created>1641396714700</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1641396714700</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,14 +149,15 @@
     <MESSAGE value="Legenda playercarreerstats" />
     <MESSAGE value="Legenda update" />
     <MESSAGE value="Download all player stats that played from 2004" />
-    <option name="LAST_COMMIT_MESSAGE" value="Download all player stats that played from 2004" />
+    <MESSAGE value="Test" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>37</line>
+          <line>38</line>
           <option name="timeStamp" value="9" />
         </line-breakpoint>
       </breakpoints>
