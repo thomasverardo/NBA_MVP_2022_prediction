@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Manual merge with Test_thomas">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Merge stats with awards and make the description of MPV Like 1, otherwise 0">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
     </list>
@@ -74,7 +74,8 @@
       <workItem from="1641375031542" duration="5825000" />
       <workItem from="1641393347733" duration="1102000" />
       <workItem from="1641396428649" duration="9209000" />
-      <workItem from="1641460924899" duration="12762000" />
+      <workItem from="1641460924899" duration="12962000" />
+      <workItem from="1641501873207" duration="368000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -174,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641467274614</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Merge stats with awards and make the description of MPV Like 1, otherwise 0">
+      <created>1641495558768</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1641495558768</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,7 +210,8 @@
     <MESSAGE value="Robe fatte insieme" />
     <MESSAGE value="filter dati &gt; 2010 per total_stats" />
     <MESSAGE value="Manual merge with Test_thomas" />
-    <option name="LAST_COMMIT_MESSAGE" value="Manual merge with Test_thomas" />
+    <MESSAGE value="Merge stats with awards and make the description of MPV Like 1, otherwise 0" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge stats with awards and make the description of MPV Like 1, otherwise 0" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -211,11 +220,6 @@
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
           <line>68</line>
           <option name="timeStamp" value="20" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>57</line>
-          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
