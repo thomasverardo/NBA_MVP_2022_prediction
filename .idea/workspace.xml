@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="filter dati &gt; 2010 per total_stats">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Manual merge with Test_thomas">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Appunti_NBA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Appunti_NBA.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +26,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="Test_thomas" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +54,12 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Code" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +74,7 @@
       <workItem from="1641375031542" duration="5825000" />
       <workItem from="1641393347733" duration="1102000" />
       <workItem from="1641396428649" duration="9209000" />
-      <workItem from="1641460924899" duration="5442000" />
+      <workItem from="1641460924899" duration="12762000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -163,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641466776050</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Manual merge with Test_thomas">
+      <created>1641467274614</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1641467274614</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,15 +201,21 @@
     <MESSAGE value="Altre modifiche" />
     <MESSAGE value="Robe fatte insieme" />
     <MESSAGE value="filter dati &gt; 2010 per total_stats" />
-    <option name="LAST_COMMIT_MESSAGE" value="filter dati &gt; 2010 per total_stats" />
+    <MESSAGE value="Manual merge with Test_thomas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Manual merge with Test_thomas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>47</line>
-          <option name="timeStamp" value="11" />
+          <line>68</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
+          <line>57</line>
+          <option name="timeStamp" value="21" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
