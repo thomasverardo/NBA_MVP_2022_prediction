@@ -1,9 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< HEAD
     <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Robe fatte insieme">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Appunti_NBA.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Appunti_NBA.txt" afterDir="false" />
+=======
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Aggiunta colonna classifica">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+>>>>>>> 574ce43e850f4ef0bca70556713b9f8f59a601ed
       <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +32,11 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
+<<<<<<< HEAD
         <entry key="$PROJECT_DIR$" value="main" />
+=======
+        <entry key="$PROJECT_DIR$" value="Test_thomas" />
+>>>>>>> 574ce43e850f4ef0bca70556713b9f8f59a601ed
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,7 +64,13 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Code" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -70,7 +85,15 @@
       <workItem from="1641375031542" duration="5825000" />
       <workItem from="1641393347733" duration="1102000" />
       <workItem from="1641396428649" duration="9209000" />
+<<<<<<< HEAD
       <workItem from="1641460924899" duration="5136000" />
+=======
+      <workItem from="1641460924899" duration="12962000" />
+      <workItem from="1641501873207" duration="435000" />
+      <workItem from="1641505675388" duration="2032000" />
+      <workItem from="1641507729273" duration="1352000" />
+      <workItem from="1641509111415" duration="4542000" />
+>>>>>>> 574ce43e850f4ef0bca70556713b9f8f59a601ed
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -156,7 +179,46 @@
       <option name="project" value="LOCAL" />
       <updated>1641411459096</updated>
     </task>
+<<<<<<< HEAD
     <option name="localTasksCounter" value="13" />
+=======
+    <task id="LOCAL-00013" summary="filter dati &gt; 2010 per total_stats">
+      <created>1641466776046</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1641466776050</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Manual merge with Test_thomas">
+      <created>1641467274614</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1641467274614</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Merge stats with awards and make the description of MPV Like 1, otherwise 0">
+      <created>1641495558768</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1641495558768</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Prima era sbagliato, c'era solo lebron">
+      <created>1641502263210</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1641502263210</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Aggiunta colonna classifica">
+      <created>1641512140190</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1641512140190</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+>>>>>>> 574ce43e850f4ef0bca70556713b9f8f59a601ed
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -182,15 +244,29 @@
     <MESSAGE value="Test" />
     <MESSAGE value="Altre modifiche" />
     <MESSAGE value="Robe fatte insieme" />
+<<<<<<< HEAD
     <option name="LAST_COMMIT_MESSAGE" value="Robe fatte insieme" />
+=======
+    <MESSAGE value="filter dati &gt; 2010 per total_stats" />
+    <MESSAGE value="Manual merge with Test_thomas" />
+    <MESSAGE value="Merge stats with awards and make the description of MPV Like 1, otherwise 0" />
+    <MESSAGE value="Prima era sbagliato, c'era solo lebron" />
+    <MESSAGE value="Aggiunta colonna classifica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiunta colonna classifica" />
+>>>>>>> 574ce43e850f4ef0bca70556713b9f8f59a601ed
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>47</line>
-          <option name="timeStamp" value="11" />
+          <line>87</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
+          <line>42</line>
+          <option name="timeStamp" value="27" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
