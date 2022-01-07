@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Prima era sbagliato, c'era solo lebron">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Aggiunta colonna classifica">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
     </list>
@@ -79,7 +79,7 @@
       <workItem from="1641501873207" duration="435000" />
       <workItem from="1641505675388" duration="2032000" />
       <workItem from="1641507729273" duration="1352000" />
-      <workItem from="1641509111415" duration="2474000" />
+      <workItem from="1641509111415" duration="4542000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -193,7 +193,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641502263210</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Aggiunta colonna classifica">
+      <created>1641512140190</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1641512140190</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -223,7 +230,8 @@
     <MESSAGE value="Manual merge with Test_thomas" />
     <MESSAGE value="Merge stats with awards and make the description of MPV Like 1, otherwise 0" />
     <MESSAGE value="Prima era sbagliato, c'era solo lebron" />
-    <option name="LAST_COMMIT_MESSAGE" value="Prima era sbagliato, c'era solo lebron" />
+    <MESSAGE value="Aggiunta colonna classifica" />
+    <option name="LAST_COMMIT_MESSAGE" value="Aggiunta colonna classifica" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -235,13 +243,8 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>44</line>
+          <line>42</line>
           <option name="timeStamp" value="27" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>85</line>
-          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
