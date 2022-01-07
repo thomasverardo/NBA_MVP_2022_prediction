@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Aggiunta colonna classifica">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Add player_stats.pkl">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
     </list>
@@ -80,6 +80,8 @@
       <workItem from="1641505675388" duration="2032000" />
       <workItem from="1641507729273" duration="1352000" />
       <workItem from="1641509111415" duration="4542000" />
+      <workItem from="1641571173497" duration="4749000" />
+      <workItem from="1641579405207" duration="138000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -200,7 +202,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641512140190</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Add player_stats.pkl">
+      <created>1641570353067</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1641570353068</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -231,20 +240,26 @@
     <MESSAGE value="Merge stats with awards and make the description of MPV Like 1, otherwise 0" />
     <MESSAGE value="Prima era sbagliato, c'era solo lebron" />
     <MESSAGE value="Aggiunta colonna classifica" />
-    <option name="LAST_COMMIT_MESSAGE" value="Aggiunta colonna classifica" />
+    <MESSAGE value="Add player_stats.pkl" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add player_stats.pkl" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>87</line>
+          <line>85</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
           <line>42</line>
           <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
+          <line>63</line>
+          <option name="timeStamp" value="28" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

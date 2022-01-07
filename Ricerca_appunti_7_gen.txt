@@ -1,0 +1,23 @@
+Mancano doppie doppie e triple doppie
+
+
+Handle Missing Values in Machine Learning
+
+1. Mean/median
+	Missing value are replaced by the mean value of the observeed value
+	
+	cons: work only with numerical continuos variables (ok)
+	
+2. Last observation carried forward (LOCF) method
+	The last value
+	
+3. Probability distribuition
+	It's different from the mean/median?
+	
+	
+
+UNBALANCE DATA:
+Secondo me, dobbiamo fare un lavoro ibrido di undersampling e oversampling (dare priorità a questo, perché troppo pochi i vincitori di MVP)
+Per fare oversampling, usare ROSE(meglio e già implementato su scikit learn) o SMOTE. 
+
+GITHUB with imalaced: https://github.com/scikit-learn-contrib/imbalanced-learn
