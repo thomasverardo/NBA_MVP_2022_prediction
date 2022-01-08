@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Pearson correlation, Ration of unbalance data and started PCA">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="New player_stats.pkl from 2003/2004">
+      <change afterPath="$PROJECT_DIR$/Code/Unbalance_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Untitled.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Ricerca_appunti_7_gen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ricerca_appunti_7_gen.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +29,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Test_thomas" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -84,7 +86,8 @@
       <workItem from="1641571173497" duration="4749000" />
       <workItem from="1641579405207" duration="272000" />
       <workItem from="1641634300402" duration="6029000" />
-      <workItem from="1641641138638" duration="4843000" />
+      <workItem from="1641641138638" duration="5661000" />
+      <workItem from="1641661847257" duration="5360000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -219,7 +222,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641579595072</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="New player_stats.pkl from 2003/2004">
+      <created>1641653667194</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1641653667194</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,30 +262,36 @@
     <MESSAGE value="Aggiunta colonna classifica" />
     <MESSAGE value="Add player_stats.pkl" />
     <MESSAGE value="Pearson correlation, Ration of unbalance data and started PCA" />
-    <option name="LAST_COMMIT_MESSAGE" value="Pearson correlation, Ration of unbalance data and started PCA" />
+    <MESSAGE value="New player_stats.pkl from 2003/2004" />
+    <option name="LAST_COMMIT_MESSAGE" value="New player_stats.pkl from 2003/2004" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>88</line>
+          <line>90</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>42</line>
+          <line>44</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>66</line>
+          <line>68</line>
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Untitled.ipynb</url>
           <line>1</line>
           <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Unbalance_data.ipynb</url>
+          <line>28</line>
+          <option name="timeStamp" value="30" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

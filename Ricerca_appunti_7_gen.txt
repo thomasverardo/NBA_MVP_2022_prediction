@@ -23,3 +23,10 @@ Per fare oversampling, usare ROSE(meglio e già implementato su scikit learn) o 
 cost sensitive leraning
 
 GITHUB with imalaced: https://github.com/scikit-learn-contrib/imbalanced-learn
+
+
+
+
+8 GENNAIO: UNBALANCED DATA
+
+
