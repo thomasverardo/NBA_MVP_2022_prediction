@@ -20,4 +20,6 @@ UNBALANCE DATA:
 Secondo me, dobbiamo fare un lavoro ibrido di undersampling e oversampling (dare priorità a questo, perché troppo pochi i vincitori di MVP)
 Per fare oversampling, usare ROSE(meglio e già implementato su scikit learn) o SMOTE. 
 
+cost sensitive leraning
+
 GITHUB with imalaced: https://github.com/scikit-learn-contrib/imbalanced-learn

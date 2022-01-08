@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Add player_stats.pkl">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Pearson correlation, Ration of unbalance data and started PCA">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Ricerca_appunti_7_gen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ricerca_appunti_7_gen.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +82,9 @@
       <workItem from="1641507729273" duration="1352000" />
       <workItem from="1641509111415" duration="4542000" />
       <workItem from="1641571173497" duration="4749000" />
-      <workItem from="1641579405207" duration="138000" />
+      <workItem from="1641579405207" duration="272000" />
+      <workItem from="1641634300402" duration="6029000" />
+      <workItem from="1641641138638" duration="4843000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -209,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641570353068</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Pearson correlation, Ration of unbalance data and started PCA">
+      <created>1641579595072</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1641579595072</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -241,14 +251,15 @@
     <MESSAGE value="Prima era sbagliato, c'era solo lebron" />
     <MESSAGE value="Aggiunta colonna classifica" />
     <MESSAGE value="Add player_stats.pkl" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add player_stats.pkl" />
+    <MESSAGE value="Pearson correlation, Ration of unbalance data and started PCA" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pearson correlation, Ration of unbalance data and started PCA" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>85</line>
+          <line>88</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
@@ -258,8 +269,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/NBA_MVP_1.ipynb</url>
-          <line>63</line>
+          <line>66</line>
           <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Untitled.ipynb</url>
+          <line>1</line>
+          <option name="timeStamp" value="29" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
