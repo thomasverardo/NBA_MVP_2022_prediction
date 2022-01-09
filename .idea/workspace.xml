@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="New player_stats.pkl from 2003/2004">
-      <change afterPath="$PROJECT_DIR$/Code/Unbalance_data.ipynb" afterDir="false" />
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="merge">
+      <change afterPath="$PROJECT_DIR$/Code/Predict_MVP.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/NBA_MVP_1.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Untitled.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Untitled.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Ricerca_appunti_7_gen.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Ricerca_appunti_7_gen.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Unbalance_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Unbalance_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/player_stats1.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/player_stats2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/predictions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/predictions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +23,13 @@
   </component>
   <component name="Git.Merge.Settings">
     <option name="BRANCH" value="main/main" />
+  </component>
+  <component name="Git.Pull.Settings">
+    <option name="OPTIONS">
+      <set>
+        <option value="REBASE" />
+      </set>
+    </option>
   </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="master" />
@@ -88,6 +96,7 @@
       <workItem from="1641634300402" duration="6029000" />
       <workItem from="1641641138638" duration="5661000" />
       <workItem from="1641661847257" duration="5360000" />
+      <workItem from="1641759370127" duration="9601000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -229,7 +238,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641653667194</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="merge">
+      <created>1641759668629</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1641759668629</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +279,8 @@
     <MESSAGE value="Add player_stats.pkl" />
     <MESSAGE value="Pearson correlation, Ration of unbalance data and started PCA" />
     <MESSAGE value="New player_stats.pkl from 2003/2004" />
-    <option name="LAST_COMMIT_MESSAGE" value="New player_stats.pkl from 2003/2004" />
+    <MESSAGE value="merge" />
+    <option name="LAST_COMMIT_MESSAGE" value="merge" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -292,6 +309,16 @@
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Unbalance_data.ipynb</url>
           <line>28</line>
           <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP.ipynb</url>
+          <line>49</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP.ipynb</url>
+          <line>103</line>
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
