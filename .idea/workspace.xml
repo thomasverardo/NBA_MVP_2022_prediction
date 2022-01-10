@@ -1,12 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="merge">
-      <change afterPath="$PROJECT_DIR$/Code/Predict_MVP.ipynb" afterDir="false" />
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Jovic Wins! Top resutls">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Unbalance_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Unbalance_data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/player_stats1.pkl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/player_stats2.pkl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/over_train_data.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/over_train_data.pkl" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/predictions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/predictions.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -97,6 +95,7 @@
       <workItem from="1641641138638" duration="5661000" />
       <workItem from="1641661847257" duration="5360000" />
       <workItem from="1641759370127" duration="9601000" />
+      <workItem from="1641804591456" duration="6230000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
