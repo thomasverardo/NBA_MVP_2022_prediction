@@ -1,11 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Jovic Wins! Top resutls">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Provato SVM (all e &lt;40)- lascio orfeo la notte">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Unbalance_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Unbalance_data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/over_train_data.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/over_train_data.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/predictions.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/predictions.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Data_preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Data_preparation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Predict_MVP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Predict_MVP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/SVM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/SVM.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/log_reg.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/log_reg.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/logistic regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/logistic regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/svm.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/svm.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/svm_40.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/svm_40.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,22 +24,15 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="main/main" />
-  </component>
-  <component name="Git.Pull.Settings">
-    <option name="OPTIONS">
-      <set>
-        <option value="REBASE" />
-      </set>
-    </option>
+    <option name="BRANCH" value="main" />
   </component>
   <component name="Git.Rebase.Settings">
-    <option name="NEW_BASE" value="master" />
+    <option name="NEW_BASE" value="main" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="main_copy" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -70,6 +67,9 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Code" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Code" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -96,6 +96,12 @@
       <workItem from="1641661847257" duration="5360000" />
       <workItem from="1641759370127" duration="9601000" />
       <workItem from="1641804591456" duration="6230000" />
+      <workItem from="1641852139838" duration="3983000" />
+      <workItem from="1641896683675" duration="1049000" />
+      <workItem from="1641898578193" duration="1700000" />
+      <workItem from="1641934722415" duration="3116000" />
+      <workItem from="1641986903640" duration="342000" />
+      <workItem from="1641997513675" duration="4239000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -244,7 +250,28 @@
       <option name="project" value="LOCAL" />
       <updated>1641759668629</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Mettiamo apposto">
+      <created>1641834519782</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1641834519782</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Fatti alcuni test e migliorari Predict_mvp con una score di quanto sia simile la classifica. I risultati tra i 3 classificatori sono simili tra di loro">
+      <created>1641856189047</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1641856189047</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Provato SVM (all e &lt;40)- lascio orfeo la notte">
+      <created>1641939304930</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1641939304930</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -279,7 +306,12 @@
     <MESSAGE value="Pearson correlation, Ration of unbalance data and started PCA" />
     <MESSAGE value="New player_stats.pkl from 2003/2004" />
     <MESSAGE value="merge" />
-    <option name="LAST_COMMIT_MESSAGE" value="merge" />
+    <MESSAGE value="Roba da scartare" />
+    <MESSAGE value="Merge" />
+    <MESSAGE value="Mettiamo apposto" />
+    <MESSAGE value="Fatti alcuni test e migliorari Predict_mvp con una score di quanto sia simile la classifica. I risultati tra i 3 classificatori sono simili tra di loro" />
+    <MESSAGE value="Provato SVM (all e &lt;40)- lascio orfeo la notte" />
+    <option name="LAST_COMMIT_MESSAGE" value="Provato SVM (all e &lt;40)- lascio orfeo la notte" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -311,13 +343,53 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP.ipynb</url>
-          <line>49</line>
+          <line>51</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP.ipynb</url>
-          <line>103</line>
+          <line>117</line>
           <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
+          <line>76</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
+          <line>72</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
+          <line>71</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
+          <line>225</line>
+          <option name="timeStamp" value="47" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP.ipynb</url>
+          <line>10</line>
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/SVM.ipynb</url>
+          <line>146</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP.ipynb</url>
+          <line>73</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/logistic regression.ipynb</url>
+          <line>75</line>
+          <option name="timeStamp" value="53" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
