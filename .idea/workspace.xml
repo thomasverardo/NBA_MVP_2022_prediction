@@ -1,15 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Provato SVM (all e &lt;40)- lascio orfeo la notte">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="log_reg_no_pearson e svm_no_pearson are the best classificator!">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Data_preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Data_preparation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Predict_MVP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Predict_MVP.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/SVM.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/SVM.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/log_reg.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/log_reg.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/logistic regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/logistic regression.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/svm.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/svm.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/svm_40.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/svm_40.pkl" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +96,7 @@
       <workItem from="1641934722415" duration="3116000" />
       <workItem from="1641986903640" duration="342000" />
       <workItem from="1641997513675" duration="4239000" />
+      <workItem from="1642006250774" duration="1895000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -271,7 +266,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641939304930</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="log_reg_no_pearson e svm_no_pearson are the best classificator!">
+      <created>1642007854613</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1642007854613</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -311,7 +313,8 @@
     <MESSAGE value="Mettiamo apposto" />
     <MESSAGE value="Fatti alcuni test e migliorari Predict_mvp con una score di quanto sia simile la classifica. I risultati tra i 3 classificatori sono simili tra di loro" />
     <MESSAGE value="Provato SVM (all e &lt;40)- lascio orfeo la notte" />
-    <option name="LAST_COMMIT_MESSAGE" value="Provato SVM (all e &lt;40)- lascio orfeo la notte" />
+    <MESSAGE value="log_reg_no_pearson e svm_no_pearson are the best classificator!" />
+    <option name="LAST_COMMIT_MESSAGE" value="log_reg_no_pearson e svm_no_pearson are the best classificator!" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
