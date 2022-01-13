@@ -1,7 +1,5 @@
 
-Logistic regression with all (no pearson) has an accuracy of 1.0 --> toppp
-With confusion matrix:
- 1815,3
-0,5
 
+SVM con 0.30 balanced accuracy = 0.8996
 
+Logistic regression con 0.30 balanced accuracy = 0.9987
