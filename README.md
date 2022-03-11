@@ -48,16 +48,16 @@ The second graph shows the different impact that the features had in the predict
 
 ## References
 
-1. Olga Kosheleva Afshin Gholamy, Vladik Kreinovich. ["Why 70/30 or 80/20 Relation Between Training and Testing Sets: A Pedagogical Explanation"](University of Texas at El Paso, 2018).
+1. Olga Kosheleva Afshin Gholamy, Vladik Kreinovich. ["Why 70/30 or 80/20 Relation Between Training and Testing Sets: A Pedagogical Explanation"], University of Texas at El Paso, 2018.
 
-2. Jennifer Shang Gu Mingyun Huang Yuanyue Gong Bing Guo Haixiang, Li Yijing. ["Learning from class-imbalanced data: Review of methods and applications"](2017).
+2. Jennifer Shang Gu Mingyun Huang Yuanyue Gong Bing Guo Haixiang, Li Yijing. ["Learning from class-imbalanced data: Review of methods and applications"]. 2017.
 
-3. Isabelle Guyon. ["A scaling law for the validation-set training-set size ratio"](ATT Bell Laboratories, Berkeley, California).
+3. Isabelle Guyon. ["A scaling law for the validation-set training-set size ratio"]. ATT Bell Laboratories, Berkeley, California.
 
-4. Dr.Taklit Akrouf Alitouche Mohamed Bekkar, Dr.Hassiba Kheliouane Djemaa. ["Evaluation Measures for Models Assessment over Imbalanced Data Sets"](2013).
+4. Dr.Taklit Akrouf Alitouche Mohamed Bekkar, Dr.Hassiba Kheliouane Djemaa. ["Evaluation Measures for Models Assessment over Imbalanced Data Sets"]. 2013.
 
-5. Lawrence O. Hall W. Philip Kegelmeyer Nitesh V. Chawla, Kevin W. Bowyer. ["SMOTE: Synthetic Minority Over-sampling Technique"](Morgan Kaufmann, 2002).
+5. Lawrence O. Hall W. Philip Kegelmeyer Nitesh V. Chawla, Kevin W. Bowyer. ["SMOTE: Synthetic Minority Over-sampling Technique"]. Morgan Kaufmann, 2002.
 
-6. Deanna Schreiber-Gregory. ["Logistic and Linear Regression Assumptions: Violation Recognition and Control"](Henry M Jackson Foundation).
+6. Deanna Schreiber-Gregory. ["Logistic and Linear Regression Assumptions: Violation Recognition and Control"]. Henry M Jackson Foundation.
 
 
