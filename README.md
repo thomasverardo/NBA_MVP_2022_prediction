@@ -1,25 +1,8 @@
 # NBA MVP 2021 prediction
-Machine Learning project
-
-The goal of our project is to predict who will be the MVP of 2021 using information on players and matches of the entire regular season.
-The MVP is elected by a panel of sportswriters and broadcasters, thus our aim is to predict the best performing player according to their preferences and thus to understand which features are the most valued.
-
-With the same model we can predict all MVP, but only if the regular season is finished
-
-A dataset (https://www.kaggle.com/nathanlauga/nba-games) contains information about NBA games from several recent seasons (from 2004 on), at the level of the single player contribution to each game.
-
-##Integration
-
-We also integrate this dataset with others using nba_api (https://github.com/swar/nba_api).
-
-
-
-
-The goal of our analysis is to predict who will be the MVP of 2021 using information on players and matches of the entire regular season.
 
 ## Data collection
 
-Provided that the Kaggle.com’s datasets on the NBA do not contain crucial information needed for the MVP prediction, it has been decided to directly use the nba api from which the Kaggle.com’s data were extracted. This API client allows access to all the NBA’s data included in the official stats.nba.com website.
+The data is extracted from the nba_api (https://github.com/swar/nba_api). This API client allows access to all the NBA’s data included in the official stats.nba.com website.
 To achieve the goal of our analysis, different information from different datasets has been used. The four datasets that have been selected to perform the study are:
 
 * commonallplayers which contains the list of all NBA players and the period
