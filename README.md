@@ -1,5 +1,7 @@
 # NBA MVP 2021 prediction
 
+Model to predict the MVP (Most Valuable Player) of an NBA season using Python and Jupyter Notebook.
+
 ## Data collection
 
 The data is extracted from the nba_api (https://github.com/swar/nba_api). This API client allows access to all the NBA’s data included in the official stats.nba.com website.
@@ -36,7 +38,7 @@ The test set has been used to evaluate the performances of the three classifiers
 
 The logistic regression is thus the most appropriate model for our study, since it has the highest balanced accuracy. By looking at the confusion matrices of the three classifiers, we reach the same conclusion. Indeed, the logistic regression has very few false positives (players that have been classified as winners but that in reality they haven’t won) and it is the only classifier that has zero false negatives (players that have been classified as non winners but that in reality they have won the MVP).
 
-# Prediction of season 2021-2021
+## Prediction of season 2021-2021
 
 To complete our study, we have used the trained logistic regression to predict the MVP of season 2020-2021. The first graph shows the ten players who have the highest probability of winning the award. Nicola Jokic is the favourite with 99.5% probability of winning (he is the actual MVP of season 2020-2021).
 
@@ -45,5 +47,16 @@ To complete our study, we have used the trained logistic regression to predict t
 The second graph shows the different impact that the features had in the prediction of the response variable. The features with the highest influence are: ’Final confederation rank’, ’Field goal percentage’, ’Assists’ and ’Personal fouls’.
 
 ![alt text](https://github.com/thomasverardo/NBA_MVP_2022_prediction/blob/main/Code/plot/log_reg_importance.png)
+
+
+
+## References
+
+ Olga Kosheleva Afshin Gholamy, Vladik Kreinovich. ["Why 70/30 or 80/20 Relation Between Training and Testing Sets: A Pedagogical Explanation"], University of Texas at El Paso, 2018.
+Jennifer Shang Gu Mingyun Huang Yuanyue Gong Bing Guo Haixiang, Li Yijing. ["Learning from class-imbalanced data: Review of methods and applications"]. 2017.
+Isabelle Guyon. ["A scaling law for the validation-set training-set size ratio"]. ATT Bell Laboratories, Berkeley, California.
+Dr.Taklit Akrouf Alitouche Mohamed Bekkar, Dr.Hassiba Kheliouane Djemaa. ["Evaluation Measures for Models Assessment over Imbalanced Data Sets"]. 2013.
+Lawrence O. Hall W. Philip Kegelmeyer Nitesh V. Chawla, Kevin W. Bowyer. ["SMOTE: Synthetic Minority Over-sampling Technique"]. Morgan Kaufmann, 2002.
+Deanna Schreiber-Gregory. ["Logistic and Linear Regression Assumptions: Violation Recognition and Control"]. Henry M Jackson Foundation.
 
 
