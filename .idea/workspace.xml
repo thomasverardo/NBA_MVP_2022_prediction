@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Try with SVM no linear">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Data_preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Data_preparation.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/Predict_MVP_2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Predict_MVP_2022.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/logistic regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/logistic regression.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Code/player_stats_2022.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/player_stats_2022.pkl" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/plot/log_reg_2022.png" beforeDir="false" afterPath="$PROJECT_DIR$/Code/plot/log_reg_2022.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,7 +60,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code/plot" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -125,6 +122,7 @@
       <workItem from="1643478167213" duration="119000" />
       <workItem from="1644070153707" duration="1862000" />
       <workItem from="1646907062014" duration="117000" />
+      <workItem from="1647015603440" duration="668000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>

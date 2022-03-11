@@ -1,5 +1,0 @@
-
-
-SVM con 0.30 balanced accuracy = 0.8996
-
-Logistic regression con 0.30 balanced accuracy = 0.9987
