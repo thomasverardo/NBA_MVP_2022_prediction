@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="log_reg_no_pearson e svm_no_pearson are the best classificator!">
+    <list default="true" id="a2eb7448-d3e9-4e00-a9ea-276b5b3e73af" name="Changes" comment="Try with SVM no linear">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Code/Predict_MVP.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Predict_MVP.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Data_preparation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Data_preparation.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/Predict_MVP_2022.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/Predict_MVP_2022.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/logistic regression.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Code/logistic regression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/player_stats_2022.pkl" beforeDir="false" afterPath="$PROJECT_DIR$/Code/player_stats_2022.pkl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Code/plot/log_reg_2022.png" beforeDir="false" afterPath="$PROJECT_DIR$/Code/plot/log_reg_2022.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +22,12 @@
     </option>
   </component>
   <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="main" />
+    <option name="BRANCH" value="Main_copy_1201" />
+    <option name="OPTIONS">
+      <set>
+        <option value="SQUASH" />
+      </set>
+    </option>
   </component>
   <component name="Git.Rebase.Settings">
     <option name="NEW_BASE" value="main" />
@@ -26,7 +35,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main_copy" />
+        <entry key="$PROJECT_DIR$" value="Main_copy_1201" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +63,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Code/plot" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
   </component>
   <component name="RecentsManager">
@@ -97,6 +106,25 @@
       <workItem from="1641986903640" duration="342000" />
       <workItem from="1641997513675" duration="4239000" />
       <workItem from="1642006250774" duration="1895000" />
+      <workItem from="1642148560213" duration="270000" />
+      <workItem from="1642151055270" duration="4192000" />
+      <workItem from="1642173639129" duration="599000" />
+      <workItem from="1642175204623" duration="3218000" />
+      <workItem from="1642245620987" duration="187000" />
+      <workItem from="1642258620705" duration="340000" />
+      <workItem from="1642267061779" duration="1623000" />
+      <workItem from="1642268850647" duration="1253000" />
+      <workItem from="1642350621667" duration="11396000" />
+      <workItem from="1642430608644" duration="519000" />
+      <workItem from="1642452030693" duration="601000" />
+      <workItem from="1642456141489" duration="2093000" />
+      <workItem from="1642588312336" duration="1206000" />
+      <workItem from="1642720828000" duration="17000" />
+      <workItem from="1642803097859" duration="3677000" />
+      <workItem from="1643381801974" duration="696000" />
+      <workItem from="1643478167213" duration="119000" />
+      <workItem from="1644070153707" duration="1862000" />
+      <workItem from="1646907062014" duration="117000" />
     </task>
     <task id="LOCAL-00001" summary="Started">
       <created>1641309044540</created>
@@ -273,7 +301,49 @@
       <option name="project" value="LOCAL" />
       <updated>1642007854613</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="test 0.30 finish">
+      <created>1642098378472</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1642098378472</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Best classificator balanced accuracy">
+      <created>1642098967842</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1642098967842</updated>
+    </task>
+    <task id="LOCAL-00028" summary="Added file for predict 2022 with update data">
+      <created>1642178878724</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1642178878724</updated>
+    </task>
+    <task id="LOCAL-00029" summary="New 2022 and new plots">
+      <created>1642373283432</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1642373283432</updated>
+    </task>
+    <task id="LOCAL-00030" summary="Update README.md">
+      <created>1642373556115</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1642373556115</updated>
+    </task>
+    <task id="LOCAL-00031" summary="Try with SVM no linear">
+      <created>1642431092866</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1642431092866</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -291,10 +361,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Started" />
-    <MESSAGE value="prova aaa" />
-    <MESSAGE value="Legenda playercarreerstats" />
-    <MESSAGE value="Legenda update" />
     <MESSAGE value="Download all player stats that played from 2004" />
     <MESSAGE value="Test" />
     <MESSAGE value="Altre modifiche" />
@@ -314,7 +380,13 @@
     <MESSAGE value="Fatti alcuni test e migliorari Predict_mvp con una score di quanto sia simile la classifica. I risultati tra i 3 classificatori sono simili tra di loro" />
     <MESSAGE value="Provato SVM (all e &lt;40)- lascio orfeo la notte" />
     <MESSAGE value="log_reg_no_pearson e svm_no_pearson are the best classificator!" />
-    <option name="LAST_COMMIT_MESSAGE" value="log_reg_no_pearson e svm_no_pearson are the best classificator!" />
+    <MESSAGE value="test 0.30 finish" />
+    <MESSAGE value="Best classificator balanced accuracy" />
+    <MESSAGE value="Added file for predict 2022 with update data" />
+    <MESSAGE value="New 2022 and new plots" />
+    <MESSAGE value="Update README.md" />
+    <MESSAGE value="Try with SVM no linear" />
+    <option name="LAST_COMMIT_MESSAGE" value="Try with SVM no linear" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -346,32 +418,17 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP.ipynb</url>
-          <line>51</line>
+          <line>53</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP.ipynb</url>
-          <line>117</line>
+          <line>118</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
-          <line>76</line>
-          <option name="timeStamp" value="40" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
-          <line>72</line>
-          <option name="timeStamp" value="44" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
-          <line>71</line>
-          <option name="timeStamp" value="45" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
-          <line>225</line>
+          <line>230</line>
           <option name="timeStamp" value="47" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
@@ -381,18 +438,48 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/SVM.ipynb</url>
-          <line>146</line>
+          <line>161</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP.ipynb</url>
-          <line>73</line>
+          <line>75</line>
           <option name="timeStamp" value="52" />
         </line-breakpoint>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/logistic regression.ipynb</url>
-          <line>75</line>
+          <line>77</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP_2022.ipynb</url>
+          <line>30</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
+          <line>103</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Predict_MVP_2022.ipynb</url>
+          <line>154</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/logistic regression.ipynb</url>
+          <line>74</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
+          <line>17</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///home/thomas/drive/Units/PRIMO ANNO/Machine learning/Progetto/Progetto_true/Code/Data_preparation.ipynb</url>
+          <line>214</line>
+          <option name="timeStamp" value="63" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
