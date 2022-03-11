@@ -1,4 +1,4 @@
-# NBA MVP 2021 prediction
+# NBA MVP prediction
 
 Model to predict the MVP (Most Valuable Player) of an NBA season using Python and Jupyter Notebook.
 
