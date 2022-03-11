@@ -1,4 +1,4 @@
-# NBA MVP 2021 prediction
+# NBA MVP prediction
 
 Model to predict the MVP (Most Valuable Player) of an NBA season using Python and Jupyter Notebook.
 
@@ -14,15 +14,7 @@ To achieve the goal of our analysis, different information from different datase
 
 ## Proposed solution
 
-To predict our response variable, three binary classifiers have been implemented using the sklearn library: a logistic regression using LogisticRegression(), a Support Vector Machine using SVC() and a Random Forest using RandomForestClassifier(). To find the best parameters for each classifier, leave-one-out cross-validations have been used as auto-tuning through the function RandomizedSearchCV(). To evaluate the performance of the cross-validated models scoring=’balanced accuracy’ has been selected. The parameters that have been
-auto-tuned for the three models are:
- 
-* **Logistic regression**: the inverse of regularisation strength and the algorithm used to solve the optimization problem of the regression. As regularisation term we have chosen the L2 term since the feature selection was already part of the data preparation;
-* **Support vector machine**: the inverse of regularisation strength and the type of kernel function;
-* **Random forest**: the criterion to measure the quality of a split, the maximum depth of the trees and the number of trees in the forest. As number of independent variables selected in the learning phase by each tree, we decided to use the square root of the total number of features since we are facing a classification problem.
-
-Once we have found the parameters for each classifier, the three models have been trained. In the learning phase we have set, in all the three models, class weight=”balanced” that automatically adjust weights inversely propor-
-tional to class frequencies in the training set, due to the fact that the database is still unbalanced.
+To predict our response variable, three binary classifiers have been implemented using the sklearn library: a logistic regression using LogisticRegression(), a Support Vector Machine using SVC() and a Random Forest using RandomForestClassifier().
 
 ## Evaluation of the performances
 
@@ -34,7 +26,7 @@ The test set has been used to evaluate the performances of the three classifiers
 
 The logistic regression is thus the most appropriate model for our study, since it has the highest balanced accuracy. By looking at the confusion matrices of the three classifiers, we reach the same conclusion. Indeed, the logistic regression has very few false positives (players that have been classified as winners but that in reality they haven’t won) and it is the only classifier that has zero false negatives (players that have been classified as non winners but that in reality they have won the MVP).
 
-## Prediction of season 2021-2021
+## Prediction of season 2020-2021
 
 To complete our study, we have used the trained logistic regression to predict the MVP of season 2020-2021. The first graph shows the ten players who have the highest probability of winning the award. Nicola Jokic is the favourite with 99.5% probability of winning (he is the actual MVP of season 2020-2021).
 
@@ -43,6 +35,15 @@ To complete our study, we have used the trained logistic regression to predict t
 The second graph shows the different impact that the features had in the prediction of the response variable. The features with the highest influence are: ’Final confederation rank’, ’Field goal percentage’, ’Assists’ and ’Personal fouls’.
 
 ![alt text](https://github.com/thomasverardo/NBA_MVP_2022_prediction/blob/main/Code/plot/log_reg_importance.png)
+
+
+
+## Prediction of season 2021-2022 
+
+To update
+
+# How to Install and Run
+Go to *Code/Predict_MVP_2022.ipynb*, download the code and run it in Jupyter Lab
 
 
 
